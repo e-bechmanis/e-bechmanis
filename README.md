@@ -12,13 +12,22 @@
 <img title="JavaScript" src="./imgs/javascript.png" alt="javascript" height="40"/>
 <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 <img title="Markdown" src="./imgs/markdown.png" alt="markdown" height="40"/>
+</p>
+
+<p>
+<img title="C++" src="./imgs/cpp.png" alt="cplusplus" width="40" height="40"/>
+<img title="Python" src="./imgs/267_Python-512.webp" alt="python" width="40" height="40"/>
+<img title="SQL" src="./imgs/sql.png" alt="sql" width="40" height="40"/>
+<img title="mongoDB" src="./imgs/mongodb-5-1175140.png" alt="mongodb" width="40" height="40"/>
+<img title="NodeJS" src="./imgs/node.png" alt="nodejs" width="40" height="40"/>
 </p>
 
 <p> 
 <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img title="VisualStudio" src="./imgs/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
-<img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<img title="VisualStudioCode" src="./imgs/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
+<img title="VisualStudio" src="./imgs/BrandVisualStudioWin2019.svg" alt="vs" width="40" height="40"/>
 </p>
 
 ---
