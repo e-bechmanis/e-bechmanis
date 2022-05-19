@@ -28,6 +28,7 @@
 <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img title="VisualStudioCode" src="./imgs/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
 <img title="VisualStudio" src="./imgs/BrandVisualStudioWin2019.svg" alt="vs" width="40" height="40"/>
+<img title="Linux" src="./imgs/linux.png" alt="linux" height="40"/>
 </p>
 
 ---
