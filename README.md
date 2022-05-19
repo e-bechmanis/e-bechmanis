@@ -19,9 +19,9 @@
 <p>
 <img title="C++" src="./imgs/cpp.png" alt="cplusplus" width="40" height="40"/>
 <img title="Python" src="./imgs/267_Python-512.webp" alt="python" width="40" height="40"/>
-<img title="SQL" src="./imgs/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" alt="sql" width="40" height="40"/>
-<img title="mongoDB" src="./imgs/mongodb-5-1175140.png" alt="mongodb" width="40" height="40"/>
-<img title="NodeJS" src="./imgs/node.png" alt="nodejs" width="40" height="40"/>
+<img title="SQL" src="./imgs/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" alt="sql" height="40"/>
+<img title="mongoDB" src="./imgs/mongodb-5-1175140.png" alt="mongodb" height="40"/>
+<img title="NodeJS" src="./imgs/node.png" alt="nodejs" height="40"/>
 </p>
 
 <p> 
