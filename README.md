@@ -37,12 +37,13 @@ My programming journey started with Harvard's CS50 course and 1 year later I fou
 ### Relevant Education
 
 **College education**
-[Seneca College Of Applied Arts & Technology](https://www.senecacollege.ca/programs/fulltime/CPA.html)
+- [Seneca College Of Applied Arts & Technology](https://www.senecacollege.ca/programs/fulltime/CPA.html)
 > <summary>Computer Programming & Analysis, GPA 4.0, President's Honour List</summary>
-> <details><summary>to see President's Honour List certificate click here</summary>
+<details><summary>to see President's Honour List certificate click here</summary>
   <p><img width="50%" src="./imgs/Presidents_Honour_List.jpg"></p>
    </details>
 
 **Web development courses**
-
+- [Harvard's CS50](https://cs50.harvard.edu/college/2022/fall/)
+- [WYWM Software Development Pipeline](https://www.withyouwithme.com/)
 
