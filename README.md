@@ -38,7 +38,7 @@ My programming journey started with Harvard's CS50 course and 1 year later I fou
 
 **College education**
 - [Seneca College Of Applied Arts & Technology](https://www.senecacollege.ca/programs/fulltime/CPA.html)
-> <summary>Computer Programming & Analysis, GPA 4.0, President's Honour List</summary>
+> Computer Programming & Analysis, GPA 4.0, President's Honour List
 <details><summary>to see President's Honour List certificate click here</summary>
   <p><img width="50%" src="./imgs/Presidents_Honour_List.jpg"></p>
    </details>
