@@ -11,4 +11,4 @@
 
 :mailbox: Stay in touch on [LinkedIn](https://www.linkedin.com/in/elena-bechmanis/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-bechmanis&langs_count=6&count_private=true&layout=compact)](https://github.com/e-bechmanis/github-readme-stats)
+[![Top Langs](https://github-readme-stats-phi-henna.vercel.app/api/top-langs/?username=e-bechmanis&langs_count=6&count_private=true&layout=compact)](https://github.com/e-bechmanis/github-readme-stats)
