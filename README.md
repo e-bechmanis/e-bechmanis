@@ -5,7 +5,6 @@
 :computer: My love to coding caps my sleep to about 4-5 hours a day
 
 :mortar_board: I am currently pursuing a [Computer Programming & Analysis (CPA) advanced diploma from Seneca](https://www.senecacollege.ca/programs/fulltime/CPA.html).
-<br> I am a non-stop learner. Aside from my full-time studies at Seneca I have been doing a number of side projects and take additional courses in order to keep up with latest trends and expand my toolkit: [JetBrains Academy](https://hyperskill.org/), [The Odin Project](https://www.theodinproject.com/), [WYWM Academy](https://withyouwithme.com/), [Harvard's CS50 series](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
 :heart: I enjoy figuring out how things work and the Eureka effect when I sudenly see a solution to something that seemed very complicated
 
